@@ -1,6 +1,7 @@
 package com.quiz.chem;
 
-import com.quiz.chem.data.RandomListGen;
+import com.quiz.data.QuestionReader;
+import com.quiz.data.RandomListGen;
 
 /**
  * Hello world!
@@ -12,5 +13,6 @@ public class App
     {
         System.out.println( "Hello World!" );
         RandomListGen.generateList();
+        QuestionReader.read();
     }
 }
