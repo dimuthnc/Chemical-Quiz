@@ -1,6 +1,6 @@
 package com.quiz.chem;
 
-import com.quiz.chem.data.RandomListGen;
+import com.quiz.data.RandomListGen;
 
 /**
  * Hello world!

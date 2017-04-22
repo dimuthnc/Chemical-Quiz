@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.quiz.chem.data;
+package com.quiz.data;
 
 import java.util.Random;
 
